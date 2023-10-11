@@ -6,6 +6,8 @@ TalkieJester - это Telegram бот, способный генерироват
 
 - Telebot
 - g4f
+- speech_recognition
+- ffmpeg
 
 ## Основные функции
 
